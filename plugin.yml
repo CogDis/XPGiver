@@ -1,0 +1,8 @@
+name: ExperienceGiver
+main: com.precipicegames.exp.ExperienceGiver
+description: Gives experience periodically
+version: 1.0
+commands:
+  xp:
+    description: Check Experience
+    usage: 'Usage: /xp'
